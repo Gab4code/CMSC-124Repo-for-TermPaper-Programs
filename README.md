@@ -1,6 +1,7 @@
 # softfruit
 
-A new Flutter project.
+This repo is for CMSC-124 Term Paper Requirement for the Semester.
+This Contains A simple Flutter Program "SortFruit" that sorts Fruits and disarrange them.
 
 ## Getting Started
 
