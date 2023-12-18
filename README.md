@@ -3,7 +3,7 @@
 This repo is for CMSC-124 Term Paper Requirement for the Semester.
 
 This repo contains a simple Sorting Algorithm.
-This also contains A simple Flutter Program "SortFruit" that sorts Fruits and disarrange them.
+This also contains A simple Flutter Program "SortFruit" that sorts Fruits and arrange them.
 
 
 ## Getting Started
