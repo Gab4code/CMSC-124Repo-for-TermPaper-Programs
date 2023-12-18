@@ -1,17 +1,18 @@
-# softfruit
+# PROGRAMS FOR CMSC-124 TERM PAPER
 
 This repo is for CMSC-124 Term Paper Requirement for the Semester.
-This Contains A simple Flutter Program "SortFruit" that sorts Fruits and disarrange them.
+
+This repo contains a simple Sorting Algorithm.
+This also contains A simple Flutter Program "SortFruit" that sorts Fruits and disarrange them.
+
 
 ## Getting Started
+The two files are found under lib directory. 
 
-This project is a starting point for a Flutter application.
+The sorting algorithm is not a flutter program but a simple dart program
+which showcase the syntax and how dart as a programming language is viable for creating programs and Applications.
 
-A few resources to get you started if this is your first Flutter project:
+Dart is also famous for its framework flutter, which is used to develop in multiple platforms such as
+Web, IOS, Android and many more. The program "SortFruit" show case dart in a new way, following new rules such
+as widget tree, widgets and many more rules when developing an android application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
